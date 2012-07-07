@@ -157,7 +157,7 @@ textarea {
 
 body {
   margin: 0;
-  font-family: serif, Georgia, "Times New Roman", Times;
+  font-family: 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ', Meiryo, 'ＭＳ Ｐゴシック', sans-serif;
   font-size: 16px;
   line-height: 18px;
   color: #b85a53;
@@ -591,6 +591,7 @@ hr {
 }
 
 strong {
+  font-size: 25px;
   font-weight: bold;
 }
 
@@ -763,7 +764,7 @@ input,
 button,
 select,
 textarea {
-  font-family: serif, Georgia, "Times New Roman", Times;
+  font-family: 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ', Meiryo, 'ＭＳ Ｐゴシック', sans-serif;
 }
 
 label {
@@ -3699,7 +3700,7 @@ input[type="submit"].btn.btn-mini {
 
 .navbar-search .search-query {
   padding: 4px 9px;
-  font-family: sans-serif, "Helvetica Neue", Helvetica, Arial;
+  font-family: 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ', Meiryo, 'ＭＳ Ｐゴシック', sans-serif;
   font-size: 13px;
   font-weight: normal;
   line-height: 1;
@@ -4949,7 +4950,7 @@ a.badge:hover {
 
 .hero-unit h1 {
   margin-bottom: 30px;
-  font-size: 60px;
+  font-size: 50px;
   line-height: 1;
   letter-spacing: -1px;
   color: inherit;
